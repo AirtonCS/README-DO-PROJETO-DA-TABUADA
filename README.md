@@ -4,7 +4,7 @@ Uma tabuada usando manipulação de DOM e funções em Javascript para formar l�
 Pode ser executado através do arquivo html local no navegador, e está praticamente pronto para ser implementado em algum aplicação web, como um servidor express que mantenha a rota usável.
 
 
-###IMAGENS DA APLICAÇÃO:###
+Imagens da aplicação:
 
 ![tabuada](https://github.com/AirtonCS/README-DO-PROJETO-DA-TABUADA/assets/102631375/fc1200e6-3a7c-47ca-a7bf-4f899b4963da)
 
