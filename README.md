@@ -10,6 +10,4 @@ Imagens da aplicação:
 
 ![tabuada de 3 x 9](https://github.com/AirtonCS/README-DO-PROJETO-DA-TABUADA/assets/102631375/2b95f9f0-bef4-4c98-aa30-fb264e58bff9)
 
-![tabuada de 5 x 5](https://github.com/AirtonCS/README-DO-PROJETO-DA-TABUADA/assets/102631375/4a791b8b-cc16-47c0-a7f6-8a27c5e0509f)
-
 ![responsividade OKAY](https://github.com/AirtonCS/README-DO-PROJETO-DA-TABUADA/assets/102631375/659b152e-5768-4315-9137-39ca1ea2559c)
